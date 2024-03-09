@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "maisa-usere": "^1.0.2",
+    "todocel": "^1.0.0"
+  },
+  "name": "pedistmv",
+  "description": "Build powerful tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maishaa",
+  "license": "ISC"
+}
